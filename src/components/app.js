@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 
-console.log('here');
 
 export default class App extends Component {
   render() {
